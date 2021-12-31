@@ -2,14 +2,14 @@
 
 from distutils.core import setup
 setup(
-    name='cookiecutter-python',
+    name='cookiecutter-pypackage
     packages=[],
     version='0.1.0',
     description='Cookiecutter template for a Python package',
     author='Frederick Mannings',
     license='BSD',
     author_email='',
-    url='https://github.com/frederickmannings/cookiecutter-python',
+    url='https://github.com/frederickmannings/cookiecutter-pypackage
     keywords=['cookiecutter', 'template', 'package', ],
     python_requires='>=3.6',
     classifiers=[
